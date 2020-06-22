@@ -1,0 +1,9 @@
+{
+  "name": "Krastorio2_Truce",
+  "version": "1.0.0",
+  "factorio_version": "0.18",
+  "title": "Krastorio2 Truce",
+  "author": "Quezler",
+  "dependencies": ["base", "Krastorio2"],
+  "description": "The biters will allow you to build rails on creep if you do not gas them."
+}
